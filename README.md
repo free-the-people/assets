@@ -11,7 +11,7 @@ The official logo of [free-the-people.us](https://free-the-people.us) is shown b
 
 ![free-the-people.us official logo image. The image is a stylized letter "F" in black text on a transparent background. The top and the bottom of the letter have extra lines above and below as if a larger copy of the letter is placed behind it and partially obscured by a white outline.](./logos/free-the-people/logo.png)
 
-## Symols
+## Symbols
 
 **[free-the-people.us](https://free-the-people.us) Protest Flag**
 
