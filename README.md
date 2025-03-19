@@ -8,7 +8,9 @@ These assets are free to use and distribute with no restrictions, although their
 
 **Disgraced Flag of the United States of America**
 
-![A modified American flag in the vertical orientation. The white stripes of the original flag have been replaced with black stripes](./symbols/protest-flag.jpg)
+![A modified American flag in the vertical orientation. The white stripes of the original flag have been replaced with black stripes](./symbols/protest-flag-print.svg)
+
+[View other sizes, orientations, and designs here](./symbols)
 
 ## Text as images
 
