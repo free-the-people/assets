@@ -4,11 +4,12 @@ Assets in this repository are created and maintained by [free-the-people.us](htt
 
 These assets are free to use and distribute with no restrictions, although their use does serve to promote our website and our opposition to the current government takeover.
 
-## [Symbols](./symbols)
+## [Disgraced Flag](./symbols/disgraced-flag)
 
 **Disgraced Flag of the United States of America**
 
-![A modified American flag in the vertical orientation. The white stripes of the original flag have been replaced with black stripes](./symbols/protest-flag-print.svg)
+![A modified American flag in the vertical orientation. The white stripes of the original flag have been replaced with black stripes](./symbols/disgraced-flag/disgraced-flag-print.svg)
+
 
 [View other sizes, orientations, and designs here](./symbols)
 
@@ -21,6 +22,20 @@ These assets are free to use and distribute with no restrictions, although their
 **Our Preamble (complete):**
 
 ![Stylized script, similar to that used in the United States Constitution, containing the text "Free the People of the United States in order to create a more perfect union."](./text/preamble.png)
+
+## [Merchandise](./merch)
+
+**Gadsden/Don't Tread on Me (Penguin variant)**
+
+![Gadsden flag with rattlesnake replaced by emperor penguin](./merch/dont%20tread%20on%20me%20penguin.svg)
+
+**T-shirt (front)**
+
+!["Of the People By the People For the People" inside a black circle surrounding an American flag](./merch/shirt-front.png)
+
+**T-shirt (back)**
+
+!["The United States has been disgraced" text above the disgraced flag of the United States. Below the flag is a drawing of a raised fist next to the text, "By defying authoritarian rule and defending the Constitution, the rule of law, and the rights of the people, we will restore our honor and reclaim our flag."](./merch/shirt-back.png)
 
 ## [Social Media](./social%20media)
 
