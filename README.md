@@ -31,11 +31,11 @@ These assets are free to use and distribute with no restrictions, although their
 
 **T-shirt (front)**
 
-!["Of the People By the People For the People" inside a black circle surrounding an American flag](./merch/shirt-front.png)
+!["Of the People By the People For the People" inside a black circle surrounding an American flag](./merch/Shirt-front.png)
 
 **T-shirt (back)**
 
-!["The United States has been disgraced" text above the disgraced flag of the United States. Below the flag is a drawing of a raised fist next to the text, "By defying authoritarian rule and defending the Constitution, the rule of law, and the rights of the people, we will restore our honor and reclaim our flag."](./merch/shirt-back.png)
+!["The United States has been disgraced" text above the disgraced flag of the United States. Below the flag is a drawing of a raised fist next to the text, "By defying authoritarian rule and defending the Constitution, the rule of law, and the rights of the people, we will restore our honor and reclaim our flag."](./merch/Shirt-back.png)
 
 ## [Social Media](./social%20media)
 
