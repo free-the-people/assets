@@ -11,7 +11,7 @@ These assets are free to use and distribute with no restrictions, although their
 ![A modified American flag in the vertical orientation. The white stripes of the original flag have been replaced with black stripes](./symbols/disgraced-flag/disgraced-flag-print.svg)
 
 
-[View other sizes, orientations, and designs here](./symbols)
+[View other sizes, orientations, and designs here](./symbols/disgraced-flag)
 
 ## [Text as images](./text)
 
