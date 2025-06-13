@@ -4,6 +4,12 @@ Assets in this repository are created and maintained by [free-the-people.us](htt
 
 These assets are free to use and distribute with no restrictions, although their use does serve to promote our website and our opposition to the current government takeover.
 
+## [Videos](./videos)
+
+**United, we arise!**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T_5-XP5MUoc?si=mQPMYy1Pth3VSm2v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## [Disgraced Flag](./symbols/disgraced-flag)
 
 **Disgraced Flag of the United States of America**
@@ -28,6 +34,10 @@ These assets are free to use and distribute with no restrictions, although their
 **Gadsden/Don't Tread on Me (Penguin variant)**
 
 ![Gadsden flag with rattlesnake replaced by emperor penguin](./merch/dont%20tread%20on%20me%20penguin.svg)
+
+**Phoenix Arise**
+
+![Phoenix logo with "Arise" written underneath](./merch/Phoenix%20Arise%20sticker.png)
 
 **T-shirt (front)**
 
