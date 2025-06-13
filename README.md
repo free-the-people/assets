@@ -8,7 +8,9 @@ These assets are free to use and distribute with no restrictions, although their
 
 **United, we arise!**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T_5-XP5MUoc?si=mQPMYy1Pth3VSm2v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+![](https://img.youtube.com/vi/T_5-XP5MUoc/hqdefault.jpg)
+
+[Watch on YouTube](https://www.youtube.com/shorts/T_5-XP5MUoc) or [download](https://github.com/free-the-people/assets/raw/refs/heads/main/videos/United%20we%20arise.mp4?download=)
 
 ## [Disgraced Flag](./symbols/disgraced-flag)
 
