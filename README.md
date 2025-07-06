@@ -12,11 +12,17 @@ These assets are free to use and distribute with no restrictions, although their
 
 [Watch on YouTube](https://www.youtube.com/shorts/T_5-XP5MUoc) or [download](https://github.com/free-the-people/assets/raw/refs/heads/main/videos/United%20we%20arise.mp4?download=)
 
+## [Phoenix Flag](./symbols/phoenix-flag)
+
+**Phoenix Flag: America will rise again**
+
+![An American flag with a phoenix logo in the center. The Phoenix represents rebirth, which is what the United States needs right now. This symbol can also be used to unify all of the many causes people follow to oppose tyranny.](./symbols/phoenix-flag/Phoenix%20Flag.jpg)
+
 ## [Disgraced Flag](./symbols/disgraced-flag)
 
 **Disgraced Flag of the United States of America**
 
-![A modified American flag in the vertical orientation. The white stripes of the original flag have been replaced with black stripes](./symbols/disgraced-flag/disgraced-flag-print.svg)
+![A modified American flag in the horizontal orientation. The white stripes of the original flag have been replaced with black stripes](./symbols/disgraced-flag/disgraced-flag-print.svg)
 
 
 [View other sizes, orientations, and designs here](./symbols/disgraced-flag)
